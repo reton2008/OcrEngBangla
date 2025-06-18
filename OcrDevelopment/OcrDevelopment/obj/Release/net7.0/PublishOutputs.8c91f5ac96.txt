@@ -1,0 +1,17 @@
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\OcrDevelopment.exe
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\x86\leptonica-1.82.0.dll
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\x86\tesseract50.dll
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\x64\leptonica-1.82.0.dll
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\x64\tesseract50.dll
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\OcrDevelopment.dll
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\OcrDevelopment.deps.json
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\OcrDevelopment.runtimeconfig.json
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\OcrDevelopment.pdb
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\SixLabors.ImageSharp.dll
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Applications\OcrApi\OcrDevelopment\OcrDevelopment\obj\Release\net7.0\PubTmp\Out\Tesseract.dll
